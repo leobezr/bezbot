@@ -1,0 +1,6 @@
+{
+   "watch": ["src"],
+   "ext": ".ts,.js",
+   "ignore": [],
+   "exec": "node --stack_size=9000 --harmony --use_strict --require ts-node/register ./src/main.ts"
+ }
