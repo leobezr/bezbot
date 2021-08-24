@@ -1,0 +1,11 @@
+{
+   "movementDelay": 450,
+   "systemDelay": 90,
+   "targetCropContainer": {
+      "width": 205,
+      "height": 205
+   },
+   "targetCropContainerColorAssert": ["000000", "0a1f29", "8a3d17"],
+   "colorProximityRange": 5,
+   "targetGeneratePixelFrames": 5
+}
