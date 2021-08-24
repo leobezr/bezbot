@@ -1,0 +1,240 @@
+{
+   "knights": {
+      "attack": {
+         "annihilation": {
+            "cooldown": 30000,
+            "groupCooldown": 4000,
+            "mana": 300,
+            "spellWord": "exori gran ico",
+            "key": "annihilation",
+            "name": "Annihilation"
+         },
+         "berserk": {
+            "cooldown": 4000,
+            "groupCooldown": 2000,
+            "mana": 115,
+            "spellWord": "exori",
+            "key": "berserk",
+            "name": "Berserk"
+         },
+         "brutalStrike": {
+            "cooldown": 6000,
+            "groupCooldown": 2000,
+            "mana": 30,
+            "spellWord": "exori ico",
+            "key": "brutalStrike",
+            "name": "Brutal Strike"
+         },
+         "fierceBerserk": {
+            "cooldown": 6000,
+            "groupCooldown": 2000,
+            "mana": 340,
+            "spellWord": "exori gran",
+            "key": "fierceBerserk",
+            "name": "Fierce Berserk"
+         },
+         "frontSweep": {
+            "cooldown": 6000,
+            "groupCooldown": 2000,
+            "mana": 200,
+            "spellWord": "exori min",
+            "key": "frontSweep",
+            "name": "Front Sweep"
+         },
+         "groundshaker": {
+            "cooldown": 8000,
+            "groupCooldown": 2000,
+            "mana": 160,
+            "spellWord": "exori mas",
+            "key": "groundshaker",
+            "name": "Groundshaker"
+         },
+         "inflictWound": {
+            "cooldown": 30000,
+            "groupCooldown": 2000,
+            "mana": 30,
+            "spellWord": "utori kor",
+            "key": "inflictWound",
+            "name": "Inflict Wound"
+         },
+         "whirlwindThrow": {
+            "cooldown": 6000,
+            "groupCooldown": 2000,
+            "mana": 40,
+            "spellWord": "exori hur",
+            "key": "whirlwindThrow",
+            "name": "whirlwind Throw"
+         }
+      },
+      "support": {
+         "bruiseBane": {
+            "cooldown": 1000,
+            "groupCooldown": 1000,
+            "mana": 10,
+            "spellWord": "exura infir ico",
+            "key": "bruiseBane",
+            "name": "Bruise Bane"
+         },
+         "cureBleeding": {
+            "cooldown": 6000,
+            "groupCooldown": 1000,
+            "mana": 30,
+            "spellWord": "exana kor",
+            "key": "cureBleeding",
+            "name": "Cure Bleeding"
+         },
+         "curePoison": {
+            "cooldown": 6000,
+            "groupCooldown": 1000,
+            "mana": 30,
+            "spellWord": "exana pox",
+            "key": "curePoison",
+            "name": "Cure Poison"
+         },
+         "fairWoundCleansing": {
+            "cooldown": 1000,
+            "groupCooldown": 1000,
+            "mana": 90,
+            "spellWord": "exura med ico",
+            "key": "fairWoundCleansing",
+            "name": "Fair Wound Cleansing"
+         },
+         "intenseRecovery": {
+            "cooldown": 60000,
+            "groupCooldown": 1000,
+            "mana": 165,
+            "spellWord": "utura gran",
+            "key": "intenseRecovery",
+            "name": "Intense Recovery"
+         },
+         "intenseWoundCleansing": {
+            "cooldown": 600000,
+            "groupCooldown": 1000,
+            "mana": 200,
+            "spellWord": "exura gran ico",
+            "key": "intenseWoundCleansing",
+            "name": "Intense Wound Cleansing"
+         },
+         "recovery": {
+            "cooldown": 60000,
+            "groupCooldown": 1000,
+            "mana": 75,
+            "spellWord": "utura",
+            "key": "recovery",
+            "name": "Recovery"
+         },
+         "woundCleansing": {
+            "cooldown": 1000,
+            "groupCooldown": 1000,
+            "mana": 40,
+            "spellWord": "exura ico",
+            "key": "woundCleansing",
+            "name": "Wound Cleansing"
+         },
+         "trainParty": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 100,
+            "spellWord": "utito mas sio",
+            "key": "trainParty",
+            "name": "Train Party"
+         },
+         "summonKnightFamiliar": {
+            "cooldown": 1800,
+            "groupCooldown": 2000,
+            "mana": 1000,
+            "spellWord": "utevo gran res eq",
+            "key": "summonKnightFamiliar",
+            "name": "Summon Knight Familiar"
+         },
+         "bloodRage": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 290,
+            "spellWord": "utito tempo",
+            "key": "bloodRage",
+            "name": "Blood Rage"
+         },
+         "challenge": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 40,
+            "spellWord": "exeta res",
+            "key": "challenge",
+            "name": "Challenge"
+         },
+         "charge": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 100,
+            "spellWord": "utani tempo hur",
+            "key": "charge",
+            "name": "Charge"
+         },
+         "chivalrousChallenge": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 80,
+            "spellWord": "exeta amp res",
+            "key": "chivalrousChallenge",
+            "name": "Chivalrous Challenge"
+         },
+         "findPerson": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 20,
+            "spellWord": "exiva \"",
+            "key": "findPerson",
+            "name": "Find Person"
+         },
+         "greatLight": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 60,
+            "spellWord": "utevo gran lux",
+            "key": "greatLight",
+            "name": "Great Light"
+         },
+         "haste": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 60,
+            "spellWord": "utani hur",
+            "key": "haste",
+            "name": "Haste"
+         },
+         "levitateUp": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 50,
+            "spellWord": "exani hur \"up",
+            "key": "levitateUp",
+            "name": "Levitate Up"
+         },
+         "levitateDown": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 50,
+            "spellWord": "exani hur \"down",
+            "key": "levitateDown",
+            "name": "Levitate Down"
+         },
+         "magicRope": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 20,
+            "spellWord": "exani tera",
+            "key": "magicRope",
+            "name": "Magic Rope"
+         },
+         "protector": {
+            "cooldown": 2000,
+            "groupCooldown": 2000,
+            "mana": 200,
+            "spellWord": "utamo tempo",
+            "key": "protector",
+            "name": "Protector"
+         }
+      }
+   }
+}

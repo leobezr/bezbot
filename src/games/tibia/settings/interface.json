@@ -1,0 +1,28 @@
+{
+   "lifeBar": {
+      "health": {
+         "x":1648,
+         "y":162,
+         "width": 79,
+         "height": 7,
+         "bar": ["ff7a7a", "f26969", "f26969", "b15151"],
+         "backgroundBar": "696969"
+      },
+      "mana": {
+         "x":1648,
+         "y":172,
+         "width": 79,
+         "height": 7,
+         "bar": "6c69f7",
+         "backgroundBar": "696969"
+      }
+   },
+   "battle": {
+      "cropPosition": {
+         "x": 1650,
+         "y": 366,
+         "width": 113,
+         "height": 13
+      }
+   }
+}
